@@ -63,7 +63,7 @@ ffmpeg-converter/
 
 1. Запустите приложение:
    ```bash
-   python ffmpeg_conv.py
+   python ffmpeg_converter.py
    ```
 
 2. Добавьте файлы для конвертации:
