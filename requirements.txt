@@ -1,0 +1,14 @@
+# Основные зависимости для конвертера
+# Python 3.x требуется
+
+# Tkinter входит в стандартную библиотеку Python, поэтому не нуждается в установке отдельно
+
+# Для работы с FFmpeg необходима внешняя программа
+# Установка FFmpeg:
+# Windows: Скачать с https://ffmpeg.org/download.html
+# Linux: sudo apt install ffmpeg
+# macOS: brew install ffmpeg
+
+# Дополнительные библиотеки (если будут использоваться):
+# numpy==1.21.0
+# pillow==8.3.1
